@@ -1,6 +1,21 @@
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+<img src="images/route.PNG"/>
+<br>
+<br>
+<br>
+<img src="images/about.PNG"/>
+<br>
+<br>
+<img src="images/nest.PNG"/>
 
 First, run the development server:
 
